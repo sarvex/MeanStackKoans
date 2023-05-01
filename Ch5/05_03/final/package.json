@@ -21,7 +21,7 @@
     "mongoose": "^5.13.15",
     "morgan": "~1.5.1",
     "ordrin-api": "^1.0.2",
-    "passport": "^0.2.1",
+    "passport": "^0.6.0",
     "passport-local": "^1.0.0"
   },
   "devDependencies": {
