@@ -16,7 +16,7 @@
     "express-session": "^1.10.1",
     "hbs": "~2.8.0",
     "mongoose": "^5.13.15",
-    "morgan": "~1.5.1",
+    "morgan": "~1.10.0",
     "ordrin-api": "^1.0.2",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0"
